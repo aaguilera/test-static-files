@@ -1,0 +1,2 @@
+I'm "foó.txt"
+(this is to test resources with accents in the file name)
