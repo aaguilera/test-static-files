@@ -1,1 +1,1 @@
-I'm "static/foo bar.txt"
+I'm "foo bar.txt"
